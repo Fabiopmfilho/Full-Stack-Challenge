@@ -2,9 +2,13 @@
 
 This project was developed during CodarMe Bootcamp Full Stack Challenge - World Cup Edition!. It was a week of practical content developing this Full Stack application.
 
+&nbsp;
+
+<hr />
+
 ## 🖼 Imagens do Projeto (Web)
-<img src="https://user-images.githubusercontent.com/71772559/190813600-d22c07b2-1eee-48bb-92bb-f8b46e7dcaf4.png" align="center" />
-<img src="https://user-images.githubusercontent.com/71772559/190813638-bc41450e-7f90-4df1-98fa-bfb2f5450b72.png" align="center" />
+<img src="./web/public/assets/Screenshot_1.png" align="center" />
+<img src="./web/public/assets/Screenshot_2.png" align="center" />
 
 ## 💾 How to install
 
@@ -16,6 +20,8 @@ This project was developed during CodarMe Bootcamp Full Stack Challenge - World 
   
   npm run dev
 ```
+
+&nbsp;
 
 ## 🛠️ Technologies/Tools Used
 
@@ -32,6 +38,7 @@ This project was developed during CodarMe Bootcamp Full Stack Challenge - World 
 
 ### 🔗 Online Project
 * [Na Trave]()
+* [Figma](https://www.figma.com/file/sHIUFoBfSOLs8JlqNqQuhS/Projeto-%E2%80%A2-Na-Trave)
 
 &nbsp;
 
