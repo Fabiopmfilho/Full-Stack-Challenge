@@ -9,12 +9,12 @@ This project was developed during CodarMe Bootcamp Full Stack Challenge - World 
 ## 💾 How to install
 
 ```bash
-  > cd web
-  > npm install
+  cd web
+  npm install
   # or with yarn
-  > yarn install
+  yarn install
   
-  > npm run dev
+  npm run dev
 ```
 
 ## 🛠️ Technologies/Tools Used
