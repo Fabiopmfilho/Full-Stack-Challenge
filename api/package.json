@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "author": {
+    "name": "Fábio Filho",
+    "email": "fabiopmfilho@outlook.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^3.4.2",
+    "@koa/router": "^12.0.0",
+    "@prisma/client": "^4.4.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.4.0"
+  }
+}

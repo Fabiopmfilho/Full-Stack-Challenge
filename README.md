@@ -39,6 +39,8 @@ This project was developed during CodarMe Bootcamp Full Stack Challenge - World 
 - **Backend**
   - Node
   - Express
+  - PlanetScale
+  - Prisma
 
 ### 🔗 Online Project
 

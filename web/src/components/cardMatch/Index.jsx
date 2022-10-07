@@ -9,6 +9,7 @@ export const CardMatch = ({ teamA, teamB, matchHour }) => {
 
         <input
           type="number"
+          min={0}
           className="bg-red-300/[0.2] w-[55px] h-[55px] text-red-700 text-xl text-center"
         />
 
@@ -16,6 +17,7 @@ export const CardMatch = ({ teamA, teamB, matchHour }) => {
 
         <input
           type="number"
+          min={0}
           className="bg-red-300/[0.2] w-[55px] h-[55px] text-red-700 text-xl text-center"
         />
 
