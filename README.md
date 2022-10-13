@@ -38,7 +38,7 @@ This project was developed during CodarMe Bootcamp Full Stack Challenge - World 
   - react-router-dom
 - **Backend**
   - Node
-  - Express
+  - KoaJS
   - PlanetScale
   - Prisma
 

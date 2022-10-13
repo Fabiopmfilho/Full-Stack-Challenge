@@ -16,7 +16,7 @@ model User {
   id        String @id @default(cuid())
   name      String
   email     String @unique
-  usernames String
+  usernames String @unique
   password  String
 
   createdAt DateTime @default(now())
@@ -41,12 +41,14 @@ model Hunch {
   id            String @id @default(cuid())
   userId        String
   gameId        String
-  homeTeamScore String
-  awayTeamScore String
+  homeTeamScore Int
+  awayTeamScore Int
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
   user User @relation(fields: [userId], references: [id])
   game Game @relation(fields: [gameId], references: [id])
+
+  @@unique([userId, gameId])
 }
